@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+spam/
+
+# Environment files
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
